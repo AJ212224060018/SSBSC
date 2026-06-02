@@ -91,6 +91,8 @@ plot(t,eusb);
 
 ### Tabulation:
 
+<img width="921" height="1600" alt="image" src="https://github.com/user-attachments/assets/503428f9-bb81-4203-be30-2032764d1b23" />
+
 ### Result:
 Thus, the SSB-SC-AM Modulation and Demodulation is experimentally done and the output is verified.
 #
